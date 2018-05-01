@@ -8,7 +8,4 @@ Breakout with AMS TSL25911 Digital Light Sensor.
 * Range: 0.5 lux to 88k lux
 * TWI/I2C Interface (address 0x29)
 * 3.3V - 5V Power Supply and Logic Level
-
-
-## Shop
-* [TSL25911-Breakout](http://www.watterott.com/en/TSL25911-Breakout-visible-and-IR-light-sensor)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensors/tsl25911/)**
