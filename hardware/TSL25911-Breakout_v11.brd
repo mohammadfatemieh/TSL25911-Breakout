@@ -981,16 +981,16 @@ hardware</text>
 <signals>
 <signal name="GND">
 <polygon width="0.254" layer="1">
-<vertex x="-0.127" y="19.939"/>
-<vertex x="20.1295" y="19.939"/>
-<vertex x="20.1295" y="-0.127"/>
-<vertex x="-0.127" y="-0.127"/>
+<vertex x="0" y="19.939"/>
+<vertex x="19.939" y="19.939"/>
+<vertex x="19.939" y="0"/>
+<vertex x="0" y="0"/>
 </polygon>
 <polygon width="0.254" layer="16">
-<vertex x="-0.127" y="19.939"/>
-<vertex x="20.1295" y="19.939"/>
-<vertex x="20.1295" y="-0.127"/>
-<vertex x="-0.127" y="-0.127"/>
+<vertex x="0" y="19.939"/>
+<vertex x="19.939" y="19.939"/>
+<vertex x="19.939" y="0"/>
+<vertex x="0" y="0"/>
 </polygon>
 <contactref element="C3" pad="1"/>
 <contactref element="IC1" pad="1"/>
